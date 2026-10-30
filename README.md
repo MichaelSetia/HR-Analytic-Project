@@ -22,6 +22,7 @@ In this project, employee records are analyzed to uncover insights regarding sal
 * **Data Manipulation & Cleaning:** Pandas, NumPy
 * **Statistical Analysis:** SciPy (`scipy.stats`)
 * **Data Visualization:** Matplotlib, Seaborn
+* **Dashboard:** Google Data Studio
 
 ---
 
