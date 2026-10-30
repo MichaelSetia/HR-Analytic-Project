@@ -19,7 +19,7 @@ In this project, employee records are analyzed to uncover insights regarding sal
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
-* **Data Manipulation & Cleaning:** Pandas, NumPy
+* **Data Manipulation & Cleaning:** Pandas, NumPy, Excle
 * **Statistical Analysis:** SciPy (`scipy.stats`)
 * **Data Visualization:** Matplotlib, Seaborn
 * **Dashboard:** Google Data Studio
