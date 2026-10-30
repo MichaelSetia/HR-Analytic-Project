@@ -12,6 +12,9 @@ An end-to-end HR Data Analysis project focused on evaluating employee compensati
 In this project, employee records are analyzed to uncover insights regarding salary distribution relative to established department salary bands (Minimum and Maximum limits). The analysis helps HR management identify financial discrepancies, specifically quantifying total **overpaid** and **underpaid** compensation amounts, and tests whether employee performance scores correlate significantly with compensation levels.
 
 ---
+## 📊 Dashboard Preview
+
+![HR Analytics Dashboard](assets/dashboard.png)
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
