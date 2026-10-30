@@ -14,7 +14,8 @@ In this project, employee records are analyzed to uncover insights regarding sal
 ---
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard](https://raw.githubusercontent.com/username/nama-repo/main/assets/dashboard.png)
+<img width="523" height="391" alt="Screenshot 2026-10-29 at 11 49 57" src="https://github.com/user-attachments/assets/8f20d0ab-0cb2-4d94-a9b5-09b2c49189fd" />
+
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
